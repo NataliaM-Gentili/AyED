@@ -1,0 +1,12 @@
+ Cuando se quiere acceder a un elemento por índice, es mejor la ArrayList
+	porque utiliza un arreglo con tamaño fijo de elementos. (Acceso directo).
+	La LinkedList se recorre de manera secuencial.
+	
+ArrayList tiene tiempos constantes para algunas operaciones de lectura/
+	de acceso a elementos en índices específicos. 
+	
+ArrayList los elementos están almacenados en un arreglo contiguo, 
+	por lo que no requiere referencias extras a los elementos.
+	
+La LinkedList es mejor para hacer inserciones o eliminaciones
+	frecuentes en cualquier parte de la lista.
